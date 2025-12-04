@@ -1,4 +1,4 @@
----
+funcionando 100%---
 manufacturer: 
     - xiaomi
 
